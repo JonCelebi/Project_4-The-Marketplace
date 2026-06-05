@@ -1,0 +1,4 @@
+customer1,merchant1,nike,shoe,jordan,2,10.00
+customer1,merchant1,nike,shoe,jordan,2,10.00
+customer1,merchant1,nike,shoe,jordan,2,10.00
+customer1,merchant1,nike,shoe,jordan,2,10.00

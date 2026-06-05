@@ -1,0 +1,2 @@
+jon,jon,jon,true,merchant1
+emily,emily,emily,false,customer1
